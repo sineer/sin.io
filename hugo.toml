@@ -1,4 +1,4 @@
-baseURL = 'https://sineer.github.io/sin.io/'
+baseURL = 'https://www.sin.io/'
 languageCode = 'en-us'
 title = 'sin.io'
 theme = "hugo-blog-awesome"
@@ -107,7 +107,7 @@ url = "https://github.com/sineer"
 
 [[params.socialIcons]]
 name = "twitter"
-url = "https://twitter.com"
+url = "https://x.com/sineercom"
 
 [[params.socialIcons]]
 name = "Rss"
