@@ -20,14 +20,24 @@ That's precisely the goal of the [PlantTraits2024](https://www.kaggle.com/compet
 
 ## What is Kaggle?
 
-If you're new to the world of data science, [Kaggle](https://www.kaggle.com) is 
-an incredible online playground for learning and practicing machine learning.
+[Kaggle](https://www.kaggle.com) is an incredible online playground for learning and practicing machine learning.
 
 Think of it as a place where you can:
 
 * **Explore real-world datasets:** Tackle problems from predicting plant traits to diagnosing diseases.
 * **Test your skills in competitions:** Challenge yourself, learn from others, and maybe even win prizes.
 * **Join a supportive community:** Ask questions, collaborate with enthusiasts, and grow your AI expertise. 
+
+There's also generative AI competitions such as:
+
+* [LLM Prompt Recovery](https://www.kaggle.com/competitions/llm-prompt-recovery)
+* [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/competitions/data-assistants-with-gemma)
+* [Use GANs to create art - will you be the next Monet?](https://www.kaggle.com/competitions/gan-getting-started)
+
+It all works within [Jupyter](https://jupyter.org/) notebooks hosted on their cloud with free GPUs!
+Participants are encouraged to share their solution and the winner must open source their work to win the price at the end.
+This way it is super easy to get started quickly by forking other people works this is encouraged and a great way to learn!
+Each competion have a discussion thread where people are free to publicly share insights and discuss their solutions.
 
 ## Plant Traits: Key to Understanding Ecosystems
 
