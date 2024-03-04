@@ -24,9 +24,11 @@ That's precisely the goal of the [PlantTraits2024](https://www.kaggle.com/compet
 
 Think of it as a place where you can:
 
-* **Explore real-world datasets:** Tackle problems from predicting plant traits to diagnosing diseases.
-* **Test your skills in competitions:** Challenge yourself, learn from others, and maybe even win prizes.
-* **Join a supportive community:** Ask questions, collaborate with enthusiasts, and grow your AI expertise. 
+* Tackle problems from predicting plant traits to diagnosing diseases.
+* Challenge yourself, learn from others, and maybe even win prizes.
+* Ask questions, collaborate with enthusiasts, and grow your AI expertise. 
+
+It's not just about Plants. There are competitions of every kind for every level of expertise.
 
 There's also generative AI competitions such as:
 
@@ -79,3 +81,17 @@ Contribute to cutting-edge research and help protect our planet.
 Visit the [PlantTraits2024](https://www.kaggle.com/competitions/planttraits2024)
 Challenge on [Kaggle](https://www.kaggle.com) to get started!
 
+<script src="https://giscus.app/client.js"
+        data-repo="sineer/sin.io"
+        data-repo-id="R_kgDOLZ6T2Q"
+        data-category-id="DIC_kwDOLZ6T2c4CdsS-"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

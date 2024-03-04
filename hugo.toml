@@ -113,3 +113,25 @@ url = "https://x.com/sineercom"
 name = "Rss"
 url = "index.xml"
 
+
+
+############################
+## Comments
+############################
+[comments]
+  # Comment provider:
+  provider = "giscus"
+
+  # Which page types are commentable?
+  commentable = {page = true, post = true, docs = false, project = false, publication = true, talk = false}
+
+  # Configuration of giscus
+  [comments.giscus]
+    repo = "sineer/sin.io" # Repo where the comments will live
+    repo_id = "R_kgDOLZ6T2Q" # Repo where the comments will live
+    category = "Announcements" # Repo where the comments will live
+    category_id = "DIC_kwDOLZ6T2c4CdsS-" # Repo where the comments will live
+    mapping = "pathname" # How Utterances will match comment to page
+    label = "comment" # Label applied to issue by utteranc.es bot
+    theme = "light" # What theme to use
+    reactions_enabled = 0
