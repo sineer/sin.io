@@ -7,7 +7,7 @@ tags:
   - AI
   - Plants
 ---
-## Decoding Plant Secrets with AI: The PlantTraits2024 Challenge
+## Decoding Plant Secrets with AI!
 
 Have you ever looked closely at a plant and wondered what stories it could tell?
 
@@ -37,9 +37,9 @@ There's also generative AI competitions such as:
 * [Use GANs to create art - will you be the next Monet?](https://www.kaggle.com/competitions/gan-getting-started)
 
 It all works within [Jupyter](https://jupyter.org/) notebooks hosted on their cloud with free GPUs!
+
 Participants are encouraged to share their solution and the winner must open source their work to win the price at the end.
-This way it is super easy to get started quickly by forking other people works this is encouraged and a great way to learn!
-Each competion have a discussion thread where people are free to publicly share insights and discuss their solutions.
+This way it is super easy to get started quickly by forking other people works, which is encouraged, and a great way to learn!
 
 ## Plant Traits: Key to Understanding Ecosystems
 
